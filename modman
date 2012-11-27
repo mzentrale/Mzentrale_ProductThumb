@@ -1,0 +1,3 @@
+src/app/etc/modules/Mzentrale_ProductThumb.xml                                app/etc/modules/Mzentrale_ProductThumb.xml
+src/app/code/community/Mzentrale/ProductThumb/                                app/code/community/Mzentrale/ProductThumb/
+src/app/design/adminhtml/default/default/layout/mzentrale/product_thumb.xml   app/design/adminhtml/default/default/layout/mzentrale/product_thumb.xml
